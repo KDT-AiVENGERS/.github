@@ -1,0 +1,47 @@
+[
+  {
+    "name": "⚙️SETTING⚙️",
+    "color": "435546",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "🍳REFACTOR🍳",
+    "color": "ef3643",
+    "description": "리팩토링"
+  },
+  {
+    "name": "P2",
+    "color": "c5def5",
+    "description": "우선순위 2순위"
+  },
+  {
+    "name": "P1",
+    "color": "274be0",
+    "description": "우선순위 1순위"
+  },
+  {
+    "name": "P0",
+    "color": "32428b",
+    "description": "우선순위 0순위"
+  },
+  {
+    "name": "🔥HOTFIX🔥",
+    "color": "0f2326",
+    "description": "릴리즈 후 치명적인 버그 / 보안이슈가 발견됐을 경우"
+  },
+  {
+    "name": "🎨CHORE🎨",
+    "color": "b6eb94",
+    "description": "추가적으로 해줘야 하는 일"
+  },
+  {
+    "name": "⭐️FEAT⭐️",
+    "color": "f9d0c4",
+    "description": "새로운 기능을 추가합니다."
+  },
+  {
+    "name": "⚡️FIX⚡️",
+    "color": "b6c60d",
+    "description": "버그 수정"
+  }
+]
