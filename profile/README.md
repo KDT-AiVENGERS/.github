@@ -3,16 +3,31 @@
 
 # ❗Teammate
 
-![jahyun](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+### 🦈SuwonPabby
+
+![SuwonPabby](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+### 🦈KimjaehyeonC
+
+![kimjaehyeonC](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+### 🦈Ch_hyuk
+
 ![chanhyuk](https://github.com/KDT-AiVENGERS/.github/assets/74997173/75e85f83-a05d-4791-abfe-6ff0d9a73235) <a href="https://github.com/kwakchanhyuk"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
-![image](https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573) <a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+### 🦈LoraBaek
 
-![image](https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19) <a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+![LoraBaek](https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573) <a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
-![image](https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446) <a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+### 🦈Taegeun Lim
 
-![image](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+![Taegeun Lim](https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19) <a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+### 🦈Eno3940
+
+![eno3940](https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446) <a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+
 # ❗Stacks
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
 
