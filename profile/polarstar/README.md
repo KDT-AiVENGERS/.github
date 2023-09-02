@@ -1,6 +1,6 @@
 <!--서비스 이미지-->
 <p align="center">
-  <img width="1727" alt="IMG_8843" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/690629c2-5cfa-4814-ad8c-39dde7ecf33c">
+  <img width="1727" alt="PolarStar" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/690629c2-5cfa-4814-ad8c-39dde7ecf33c">
 
 </p>
 
@@ -34,6 +34,42 @@
 </ul>
 <br><br>
 
+<!--서비스 기능 소개 및 설명-->
+<h1>
+ 서비스 기능 소개 및 설명 📌
+</h1>
+
+<h3>
+ 💡 1. 랜딩 페이지
+</h3>
+<p align="center">
+  <img width="1727" alt="PolarStar_LandingPage" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/edffed0d-2dd7-4f08-b7c8-c11095f35ce6">
+</p>
+<br>
+
+<h3>
+ 💡 2. 유저 Q&A
+</h3>
+<p align="center">
+  <img width="1727" alt="PolarStar_Q&A" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/9c50dfc8-1e76-4862-bc04-12574a045e5b">
+</p>
+<br>
+
+<h3>
+ 💡 3. 채용공고 추천
+</h3>
+<p align="center">
+  <img width="1727" alt="PolarStar_JDRec" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/db012b20-3dec-492b-a8e4-55d5e1579a34">
+</p>
+<br>
+
+<h3>
+ 💡 4. 강의 추천
+</h3>
+<p align="center">
+  <img width="1727" alt="PolarStar_LECRec" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/c4ec9a0b-3167-437c-9fd7-6003e8aa7d30">
+</p>
+<br>
 <!--테이블: repo-->
 <h1>
   Repository 📌
@@ -168,27 +204,10 @@
   </tr>
 </table>
 <br><br>
-<!-데모 영상-->
-<h1>
-  데모 영상 삽입 예정📌
-</h1>
-<br><br>
 
-<!--아래 부분은 이미지 활용해서 추가 작업 예정이예요!-->
+<!--최종 프로젝트 발표회-->
 <h1>
- 아래 이미지 활용한 추가 작업 예정! 📌
+  최종 프로젝트 발표회 유튜브 영상📌
 </h1>
-<p align="center">
-  <img width="1727" alt="IMG_8845" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/12b18429-5129-44ee-82e6-e35bed573e7b">
-  <img width="1701" alt="IMG_8846" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/e0aec4c7-6269-440e-b841-859828f05805">
-  <img width="1709" alt="IMG_8847" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/4d3c0f42-7e0a-4bab-bb53-1993b09250a0">
-  <img width="1712" alt="IMG_8848" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/0f45a4e5-0d7e-4720-b3c5-f081e65f899a">
-  <img width="1726" alt="IMG_8849" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/c2f433e5-21de-4e6c-8afd-d1d5a7e03367">
-  <img width="1728" alt="IMG_8850" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/0f9e5881-51c1-4f63-ae1d-343a7130126a">
-  <img width="1725" alt="IMG_8851" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/20a750a3-2e48-403c-9e00-a4b4bc1ba822">
-  <img width="1728" alt="IMG_8852" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/7345bc77-f9b9-4aa3-8e0f-3a39fffd269e">
-  <img width="1727" alt="IMG_8853" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/ef9833b7-95fe-49e6-87e1-ff57f73e67cf">
-  <img width="1728" alt="IMG_8854" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/1909c2fe-03ff-4c5f-b10a-9d8d5615cf35">
-  <img width="1726" alt="IMG_8855" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/fc476718-db2b-49ac-8992-624cca4d77f8">
-  <img width="1113" alt="IMG_8856" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/ee33a701-482d-41ab-ad5e-8332b895470a">
-</p>
+
+  [![최종 프로젝트 발표회 유튜브](https://img.youtube.com/vi/eP0XIFfD51Y/0.jpg)](https://www.youtube.com/watch?v=eP0XIFfD51Y)
