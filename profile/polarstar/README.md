@@ -80,11 +80,11 @@
     <th scope="col">설명</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KDT-AiVENGERS/PolarStar-AIModel">PolarStar_AIModel     </a></td>
+    <td><a href="https://github.com/KDT-AiVENGERS/PolarStar_AIModel">PolarStar_AIModel     </a></td>
     <td>모델 서빙</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KDT-AiVENGERS/AIInfra">PolarStar_AIInfra     </a></td>
+    <td><a href="https://github.com/KDT-AiVENGERS/PolarStar_AIInfra">PolarStar_AIInfra     </a></td>
     <td>모델 훈련, 테스트 코드</td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@
     <td>데이터 수집 및 가공</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KDT-AiVENGERS/Front-End">PolarStar_FrontEnd     </a></td>
+    <td><a href="https://github.com/KDT-AiVENGERS/PolarStar_FrontEnd">PolarStar_FrontEnd     </a></td>
     <td>프론트엔드</td>
   </tr>
 </table>
