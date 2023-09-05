@@ -48,13 +48,13 @@
 <img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/30a60453-9eb1-4cd0-a159-f5b79aa5fc5e" width= "1000" height="500">
 
 - 구인 공고(job description)분석 기반 직무/공고/커리큘럼 추천 서비스   
-    -> __서비스 확인하러 가기__ [Polar Star](https://github.com/KDT-AiVENGERS/.github/tree/develop/profile/polarstar)  
+    -> __서비스 확인하러 가기__ [Polar Star](https://github.com/KDT-AiVENGERS/PolarStar_Info)  
     
 - 총 4개의 repository로 구성
     - [PolarStar-AIModel](https://github.com/KDT-AiVENGERS/PolarStar-AIModel)
     - [PolarStar_Data](https://github.com/KDT-AiVENGERS/PolarStar_Data)
-    - [PolarStar_AIInfra](https://github.com/KDT-AiVENGERS/AIInfra)
-    - [PolarStar_Front-End](https://github.com/KDT-AiVENGERS/Front-End)
+    - [PolarStar_AIInfra](https://github.com/KDT-AiVENGERS/PolarStar_AIInfra)
+    - [PolarStar_Front-End](https://github.com/KDT-AiVENGERS/PolarStar_FrontEnd)
 </details>
 
 <details>
