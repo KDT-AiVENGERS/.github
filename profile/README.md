@@ -51,7 +51,7 @@
     -> __서비스 확인하러 가기__ [Polar Star](https://github.com/KDT-AiVENGERS/PolarStar_Info)  
     
 - 총 4개의 repository로 구성
-    - [PolarStar-AIModel](https://github.com/KDT-AiVENGERS/PolarStar-AIModel)
+    - [PolarStar_AIModel](https://github.com/KDT-AiVENGERS/PolarStar_AIModel)
     - [PolarStar_Data](https://github.com/KDT-AiVENGERS/PolarStar_Data)
     - [PolarStar_AIInfra](https://github.com/KDT-AiVENGERS/PolarStar_AIInfra)
     - [PolarStar_Front-End](https://github.com/KDT-AiVENGERS/PolarStar_FrontEnd)
