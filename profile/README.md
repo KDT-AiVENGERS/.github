@@ -1,35 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=300&section=header&text=AiVENGERS&animation=twinkling&desc=&descSize=30&descAlign=30&descAlignY=55&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30)
-<p align='center'> Ai를 연구하고 서비스를 개발하는 거북목🐢 히어로 AiVENGERS 입니다!👊! </p>
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=AiVENGERS&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
+<h3 align='center'> Ai를 연구하고 서비스를 개발하는 거북목🐢 히어로 AiVENGERS 입니다!👊! </h3>
+
+<br />
+<br />
 
 # ❗Teammate
 
-### 🦈SuwonPabby
+| 🦈SuwonPabby🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e" width="200px" height="200px"/> | 🦈KimjaehyeonC🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e" width="200px" height="200px"/> | &nbsp;&nbsp;&nbsp;🦈Ch_hyuk🦈&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/75e85f83-a05d-4791-abfe-6ff0d9a73235" width="350px" height="200px"/> | &nbsp;&nbsp;&nbsp;🦈LoraBaek🦈&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573" width="300px"  height="200px" /> |🦈TaegeunLim🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19" width="200px"  height="200px" /> |&nbsp;&nbsp;&nbsp;&nbsp;🦈Eno3940🦈&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446" width="300px"  height="200px" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                          **이의진**                          |                          **김재현**                          |                          **곽찬혁**                          |                          **백승림**                          |                         **임태근**                          |                         **최인호**                          |
+|         <a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>    |           <a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>           |           <a href="https://github.com/kwakchanhyuk"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>            |         <a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>         |        <a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>          |        <a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>        |
 
-![SuwonPabby](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-### 🦈KimjaehyeonC
-
-![kimjaehyeonC](https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e) <a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-### 🦈Ch_hyuk
-
-![chanhyuk](https://github.com/KDT-AiVENGERS/.github/assets/74997173/75e85f83-a05d-4791-abfe-6ff0d9a73235) <a href="https://github.com/kwakchanhyuk"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-### 🦈LoraBaek
-
-![LoraBaek](https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573) <a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-### 🦈Taegeun Lim
-
-![Taegeun Lim](https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19) <a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-### 🦈Eno3940
-
-![eno3940](https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446) <a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
+<br />
+<br />
 
 # ❗Stacks
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+<br />
+<br />
 
 # ❗Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -38,10 +27,18 @@
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white">
 
 
+<br />
+<br />
+
 # ❗Projects
 
 <details>
 <summary>Polar Star</summary>
+
+<br />
+<br />
+
+
 
 ## Polar Star
 
