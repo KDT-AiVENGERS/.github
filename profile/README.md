@@ -68,14 +68,6 @@
 
 # ❗Projects
 
-<details>
-<summary>Polar Star</summary>
-
-<br />
-<br />
-
-
-
 ## Polar Star
 
 <img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/30a60453-9eb1-4cd0-a159-f5b79aa5fc5e" width= "1000" height="500">
@@ -88,13 +80,8 @@
     - [PolarStar_Data](https://github.com/KDT-AiVENGERS/PolarStar_Data)
     - [PolarStar_AIInfra](https://github.com/KDT-AiVENGERS/PolarStar_AIInfra)
     - [PolarStar_Front-End](https://github.com/KDT-AiVENGERS/PolarStar_FrontEnd)
-</details>
 
-<details>
-<summary>SKTPrompt</summary>
 
-# 프로젝트 진행중~
-</details>
 
 
 <p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=150&section=footer&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
