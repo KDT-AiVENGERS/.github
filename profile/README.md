@@ -1,5 +1,8 @@
 <p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=150&section=header&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
-<h3 align='center'> AI를 연구하고 서비스를 개발하는 거북목🐢 히어로 AiVENGERS 입니다!👊! </h3>
+
+
+![aivengersMainImage](https://github.com/KDT-AiVENGERS/.github/assets/60493070/fa20a3f0-0fd8-48cc-8b5a-44bade73ae91)
+
 
 <br />
 <br />
