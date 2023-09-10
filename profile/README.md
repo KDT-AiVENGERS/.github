@@ -1,15 +1,51 @@
-<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=AiVENGERS&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
-<h3 align='center'> Ai를 연구하고 서비스를 개발하는 거북목🐢 히어로 AiVENGERS 입니다!👊! </h3>
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=150&section=header&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
+<h3 align='center'> AI를 연구하고 서비스를 개발하는 거북목🐢 히어로 AiVENGERS 입니다!👊! </h3>
 
 <br />
 <br />
 
 # ❗Teammate
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🦈SuwonPabby🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/60493070/fa8c63ae-63c4-46b7-9470-f8c9f5858f72" width="200px" height="200px"></th>
+      <th>🦈KimjaehyeonC🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e" width="200px" height="200px"></th>
+      <th>🦈Ch_hyuk🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/75e85f83-a05d-4791-abfe-6ff0d9a73235" width="200px" height="200px"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>이의진</th>
+      <th>김재현</th>
+      <th>곽찬혁</th>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+      <th><a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+      <th><a href="https://github.com/kwakchanhyuk"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+    </tr>
+    <tr>
+      <th>🦈LoraBaek🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573" width="200px" height="200px"></th>
+      <th>🦈TaegeunLim🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19" width="170px" height="200px"></th>
+      <th>🦈Eno3940🦈<br><img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446" width="200px" height="200px"></th>
+    </tr>
+    <tr>
+      <th>백승림</th>
+      <th>임태근</th>
+      <th>최인호</th>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+      <th><a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+      <th><a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a></th>
+    </tr>
+  </tbody>
+</table>
 
-| 🦈SuwonPabby🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e" width="200px" height="200px"/> | 🦈KimjaehyeonC🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/9585410f-1ff2-4dfa-b4f9-6a5dea49829e" width="200px" height="200px"/> | &nbsp;&nbsp;&nbsp;🦈Ch_hyuk🦈&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/75e85f83-a05d-4791-abfe-6ff0d9a73235" width="350px" height="200px"/> | &nbsp;&nbsp;&nbsp;🦈LoraBaek🦈&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/6c65fd23-73c0-4d27-ab55-5f17367f7573" width="300px"  height="200px" /> |🦈TaegeunLim🦈<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/851aebb2-ed0e-4de4-92cb-a246e23f7b19" width="200px"  height="200px" /> |&nbsp;&nbsp;&nbsp;&nbsp;🦈Eno3940🦈&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KDT-AiVENGERS/.github/assets/74997173/db9e1d45-862e-4f7c-ac25-e540e3979446" width="300px"  height="200px" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **이의진**                          |                          **김재현**                          |                          **곽찬혁**                          |                          **백승림**                          |                         **임태근**                          |                         **최인호**                          |
-|         <a href="https://github.com/SuwonPabby"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>    |           <a href="https://github.com/kimjaehyeonC"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>           |           <a href="https://github.com/kwakchanhyuk"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>            |         <a href="https://github.com/LoraBaek"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>         |        <a href="https://github.com/dkqp"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>          |        <a href="https://github.com/eno3940"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>        |
+</div>
+
+
 
 <br />
 <br />
@@ -58,3 +94,8 @@
 <summary>SKTPrompt</summary>
 
 # 프로젝트 진행중~
+</details>
+
+
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=150&section=footer&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
+
